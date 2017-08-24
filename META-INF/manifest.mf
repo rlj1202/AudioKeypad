@@ -1,0 +1,2 @@
+Main-class: redlaboratory.audioKeypad.Main
+Manifest-Version: 0.1
